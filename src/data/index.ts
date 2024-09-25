@@ -42,3 +42,58 @@ export const workExperiences = [
     className: "md:col-span-2",
   },
 ];
+
+export const navItems = [
+  {
+    name: "Home",
+    link: "#home",
+  },
+  {
+    name: "Experience",
+    link: "/#experience",
+  },
+  {
+    name: "Projects",
+    link: "#projects",
+  },
+  {
+    name: "Approach",
+    link: "#approach",
+  },
+  {
+    name: "Gallery",
+    link: "#gallery",
+  },
+];
+
+export const projects = [
+  {
+    id: 1,
+    title: "30 Solar System Planets to Explore",
+    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    img: "/project-1.jpg",
+    link: "/ui.www.com",
+  },
+
+  {
+    id: 2,
+    title: "Yoom Video Conferencing App",
+    des: "Simplify your video conferencing experience with Yoom.Seamlessly connect with colleagues and friends.",
+    img: "/project-2.jpg",
+    link: "/ui.www.com",
+  },
+  {
+    id: 3,
+    title: "AI Image SaaS - Canva Application",
+    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    img: "/project-3.jpg",
+    link: "/ui.www.com",
+  },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the apple iphone 15 pro website,combining GSAP animations and three.js 3D effects...",
+    img: "/project-4.jpg",
+    link: "/ui.www.com",
+  },
+];
