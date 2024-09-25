@@ -1,6 +1,8 @@
 import Clients from "@/components/sections/Clients";
 import Experience from "@/components/sections/Experience";
 import { FeaturesSectionDemo } from "@/components/sections/Features";
+import Footer from "@/components/sections/Footer";
+import Gallery from "@/components/sections/Gallery";
 import Hero from "@/components/sections/hero";
 import Projects from "@/components/sections/Projects";
 import { CanvasRevealEffectDemo } from "@/components/ui/CanvaRevealEffectDemo";
@@ -18,6 +20,8 @@ export default function Home() {
         <FeaturesSectionDemo />
         <CanvasRevealEffectDemo />
         <Clients />
+        <Gallery />
+        <Footer />
       </div>
     </main>
   );

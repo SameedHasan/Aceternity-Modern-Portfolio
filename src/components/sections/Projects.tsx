@@ -17,10 +17,7 @@ export default function Projects({}: Props) {
             key={project.id}
             className="flex items-center justify-center sm:w-96 w-[80vw]"
           >
-            <PinContainer
-              title="/ui.aceternity.com"
-              href="https://twitter.com/mannupaaji"
-            >
+            <PinContainer title={project.title} href="/">
               <div className="flex basis-full flex-col p-4 tracking-tight sm:basis-1/2 w-[20rem] h-[20rem]">
                 <h3 className="max-w-xs !pb-2 !m-0 font-bold text-slate-100">
                   {project.title}

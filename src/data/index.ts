@@ -97,3 +97,52 @@ export const projects = [
     link: "/ui.www.com",
   },
 ];
+
+export const testimonials = [
+  {
+    name: "Cameeter",
+    title: "Direction of Board",
+    quote:
+      "Especially has increasingly been useful in distributing testimonials on products and places. It is done by making use of the tagging feature that directly links to the original brand or the particular location that the picture was taken.",
+  },
+  {
+    name: "Adams",
+    title: "Kinffe",
+    quote:
+      "Especially has increasingly been useful in distributing testimonials on products and places. It is done by making use of the tagging feature that directly links to the original brand or the particular location that the picture was taken.",
+  },
+  {
+    name: "Smith Kerff",
+    title: "MoMo",
+    quote:
+      "Especially has increasingly been useful in distributing testimonials on products and places. It is done by making use of the tagging feature that directly links to the original brand or the particular location that the picture was taken.",
+  },
+  {
+    quote:
+      "Especially has increasingly been useful in distributing testimonials on products and places. It is done by making use of the tagging feature that directly links to the original brand or the particular location that the picture was taken.",
+    name: "Boycatt",
+    title: "Spark Bit",
+  },
+
+  {
+    quote:
+      "Especially has increasingly been useful in distributing testimonials on products and places. It is done by making use of the tagging feature that directly links to the original brand or the particular location that the picture was taken.",
+    name: "Jacob",
+    title: "ACme Technologies",
+  },
+];
+
+export const socialIcons = [
+  {
+    id: 1,
+    img: "/git.svg",
+  },
+  {
+    id: 2,
+    img: "/twit.svg",
+  },
+  {
+    id: 3,
+    img: "/link.svg",
+  },
+];

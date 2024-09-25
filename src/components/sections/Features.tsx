@@ -59,7 +59,7 @@ export function FeaturesSectionDemo() {
     },
   ];
   return (
-    <div className="rlative z-10 py-10 max-w-7xl max-auto">
+    <div className="relative z-10 py-10 max-w-7xl max-auto">
       <div>
         <h1 className="heading text-white">
           <span className="text-purple">Features</span>
